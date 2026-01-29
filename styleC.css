@@ -1,0 +1,6 @@
+.box-container{
+    background-image : linear-gradient(to bottom, rgb(255, 102, 255), rgb(125, 255, 125));
+    width: fit-content;
+    text-shadow: 2px 2px 4px black;
+    display: flex;
+}
